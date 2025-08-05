@@ -1,6 +1,7 @@
 # Sales Conversation Analyzer
 
 AI-powered sales conversation analysis using your PremAI fine-tuned models.
+![Sales Conversation Analyzer](https://github.com/user-attachments/assets/183a544a-92e5-4b48-8065-0e4533854a3c)
 
 ## Model Training
 
