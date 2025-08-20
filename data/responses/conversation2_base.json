@@ -1,0 +1,44 @@
+{
+    "outcome_prediction": {
+        "will_convert": false,
+        "confidence": 0.25,
+        "probability_score": 35
+    },
+    "metrics": {
+        "customer_engagement": 0.67,
+        "sales_effectiveness": 0.43,
+        "conversation_length": 10,
+        "conversation_style": "informal",
+        "objections_raised": true,
+        "price_discussed": true,
+        "next_steps_defined": false
+    },
+    "analysis": {
+        "key_themes": [
+            "customer service",
+            "AI support",
+            "response times",
+            "training"
+        ],
+        "customer_pain_points": [
+            "high ticket volume",
+            "long response times",
+            "budget constraints"
+        ],
+        "sales_strengths": [
+            "knowledge of product features",
+            "ability to provide information on implementation process"
+        ],
+        "areas_for_improvement": [
+            "clearer pricing options discussion",
+            "more detailed information on training",
+            "handling customer objections more effectively"
+        ],
+        "recommended_next_steps": [
+            "Provide a list of other pricing plans for the customer to review",
+            "Offer a free trial or demo of the AI feature",
+            "Follow up with the customer within 24 hours"
+        ]
+    },
+    "summary": "The sales representative was able to provide some information about their product's features and implementation process, but the customer expressed concerns about budget constraints and response times. The conversation ended without defining next steps, as the customer decided to discuss further with their team."
+}

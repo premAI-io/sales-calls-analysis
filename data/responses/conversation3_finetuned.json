@@ -1,0 +1,42 @@
+{
+    "outcome_prediction": {
+        "will_convert": false,
+        "confidence": 0.35,
+        "probability_score": 42
+    },
+    "metrics": {
+        "customer_engagement": 0.75,
+        "sales_effectiveness": 0.6,
+        "conversation_length": 18,
+        "conversation_style": "Formal",
+        "objections_raised": true,
+        "price_discussed": true,
+        "next_steps_defined": false
+    },
+    "analysis": {
+        "key_themes": [
+            "Customer Service Efficiency",
+            "Budget Constraints",
+            "ROI"
+        ],
+        "customer_pain_points": [
+            "High ticket volume",
+            "Long response times",
+            "Limited budget"
+        ],
+        "sales_strengths": [
+            "Demonstrates potential solution",
+            "Offers detailed pricing breakdown"
+        ],
+        "areas_for_improvement": [
+            "Clarify ROI more clearly",
+            "Offer alternative solutions or discounts"
+        ],
+        "recommended_next_steps": [
+            "Arrange a demo with actual data to show potential ROI",
+            "Propose a phased implementation approach",
+            "Explore different pricing tiers or packages"
+        ]
+    },
+    "summary": "The sales conversation was productive in discussing the customer's pain points and offering solutions, but the customer is firmly committed to their budget constraints. The rep needs to further clarify the return on investment and explore alternative pricing options."
+}

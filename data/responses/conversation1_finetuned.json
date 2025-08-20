@@ -1,0 +1,39 @@
+{
+    "outcome_prediction": {
+        "will_convert": true,
+        "confidence": 0.85,
+        "probability_score": 75
+    },
+    "metrics": {
+        "customer_engagement": 0.6,
+        "sales_effectiveness": 0.4,
+        "conversation_length": 12,
+        "conversation_style": "Informal and professional",
+        "objections_raised": true,
+        "price_discussed": false,
+        "next_steps_defined": false
+    },
+    "analysis": {
+        "key_themes": [
+            "automation effectiveness",
+            "training",
+            "case studies"
+        ],
+        "customer_pain_points": [
+            "response time reduction",
+            "understanding platform impact on workflow"
+        ],
+        "sales_strengths": [
+            "standard feature details"
+        ],
+        "areas_for_improvement": [
+            "be more concrete about automation benefits",
+            "offer a demo to alleviate concerns"
+        ],
+        "recommended_next_steps": [
+            "provide specific case studies and results",
+            "schedule a demo for the customer"
+        ]
+    },
+    "summary": "The sales conversation is moving towards a conversion, but with some hesitations. The rep needs to provide more concrete information about the platform's benefits and offer a demo to address the customer's concerns."
+}

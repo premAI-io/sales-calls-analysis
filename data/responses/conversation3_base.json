@@ -1,0 +1,43 @@
+{
+    "outcome_prediction": {
+        "will_convert": false,
+        "confidence": 0.15,
+        "probability_score": 25
+    },
+    "metrics": {
+        "customer_engagement": 0.6,
+        "sales_effectiveness": 0.4,
+        "conversation_length": 9,
+        "conversation_style": "professional",
+        "objections_raised": true,
+        "price_discussed": true,
+        "next_steps_defined": false
+    },
+    "analysis": {
+        "key_themes": [
+            "response time",
+            "budget constraints",
+            "AI support"
+        ],
+        "customer_pain_points": [
+            "high ticket volume",
+            "slow response times",
+            "employee workload"
+        ],
+        "sales_strengths": [
+            "clearly addressing customer pain points",
+            "demonstrating ROI potential"
+        ],
+        "areas_for_improvement": [
+            "more aggressive pricing negotiation",
+            "better demonstration of cost savings",
+            "clarifying next steps"
+        ],
+        "recommended_next_steps": [
+            "offer a demo with actual data to show potential ROI",
+            "arrange for a price reduction discussion",
+            "define clear next steps and follow-up plan"
+        ]
+    },
+    "summary": "The conversation ended without a conversion as the customer was unwilling to commit due to significant budget constraints. The sales representative effectively addressed pain points but failed to secure a commitment from the customer."
+}

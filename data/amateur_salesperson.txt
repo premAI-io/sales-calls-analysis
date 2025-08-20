@@ -1,0 +1,29 @@
+Sales Rep: Hi! Thanks for your time today. So, um, I heard you might need help with customer service? I'm still pretty new at this, but our product is really good, I think.
+
+Customer: Yes, we're looking into options for our support team. We handle about 500 tickets daily with 12 agents, and our response times are around 24 hours.
+
+Sales Rep: Oh wow, that's a lot of tickets! Yeah, our software can probably help with that. We have this AI feature that... let me check my notes... handles a bunch of common questions automatically. I'm not sure of the exact percentage though.
+
+Customer: That sounds interesting. How does the implementation process work?
+
+Sales Rep: Good question! I think it's pretty straightforward. Our technical team sets everything up for you. It shouldn't take too long, maybe a few days? I can double-check that timeline for you if you'd like.
+
+Customer: What about training for our team?
+
+Sales Rep: Oh right, training! Yes, we definitely do that. Most people pick it up quickly. We have training sessions and... um... I think there's also some documentation. I can get you more details on exactly what's included.
+
+Customer: And what's the cost?
+
+Sales Rep: So it's $149 per user per month. For your 12 agents, that would be... let me calculate this... $1,788 monthly. I know that might seem like a lot, but it should save you money in the long run.
+
+Customer: That's quite expensive for our budget. Do you have any smaller plans?
+
+Sales Rep: Hmm, that's a good question. I'm not really sure about other pricing options. Let me ask my manager and get back to you on that? I don't want to give you wrong information.
+
+Customer: I think I need to discuss this with my team first.
+
+Sales Rep: Of course! That makes total sense. Should I follow up with you next week? Or would you prefer to reach out to me when you're ready?
+
+Customer: I'll reach out if we decide to move forward.
+
+Sales Rep: Sounds good! Thanks for your time today. I hope we can work something out!

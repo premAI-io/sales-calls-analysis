@@ -1,0 +1,43 @@
+{
+    "outcome_prediction": {
+        "will_convert": false,
+        "confidence": 0.15,
+        "probability_score": 23
+    },
+    "metrics": {
+        "customer_engagement": 0.67,
+        "sales_effectiveness": 0.43,
+        "conversation_length": 8,
+        "conversation_style": "Informal",
+        "objections_raised": true,
+        "price_discussed": false,
+        "next_steps_defined": false
+    },
+    "analysis": {
+        "key_themes": [
+            "Automation",
+            "Response times",
+            "Training"
+        ],
+        "customer_pain_points": [
+            "Vague implementation process",
+            "Lack of specific results guarantees",
+            "Unclear training duration",
+            "Insufficient demo availability"
+        ],
+        "sales_strengths": [
+            "Offering standard features and automation capabilities"
+        ],
+        "areas_for_improvement": [
+            "More concrete examples and case studies",
+            "Clearer response to training questions",
+            "Improved demonstration availability"
+        ],
+        "recommended_next_steps": [
+            "Provide more specific results guarantees or case studies",
+            "Clarify the duration of training for different teams",
+            "Offer a demo sooner rather than later"
+        ]
+    },
+    "summary": "The customer was interested in the platform's automation capabilities and training but raised several concerns about the implementation process, response times, and lack of concrete examples. The sales representative did not provide clear answers to these questions or offer a demo, which may have hindered conversion."
+}

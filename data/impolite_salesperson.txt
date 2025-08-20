@@ -1,0 +1,45 @@
+Sales Rep: Yeah, hi. You called about customer service software?
+
+Customer: Yes, we're looking into options for our support team. We handle about 500 tickets daily with 12 agents, and our response times are around 24 hours.
+
+Sales Rep: Okay. We have a platform that does tickets.
+
+Customer: What kind of features does it have specifically?
+
+Sales Rep: The usual stuff. Routing, automation, reports. Standard features.
+
+Customer: How effective is the automation? Could it help reduce our response times?
+
+Sales Rep: Should help, yeah. Does for most people.
+
+Customer: That's pretty vague. Can you be more specific about the results?
+
+Sales Rep: Look, every company is different. I can't guarantee specific numbers.
+
+Customer: How does the implementation process work?
+
+Sales Rep: Tech team sets it up. Takes however long it takes.
+
+Customer: What about training for our team?
+
+Sales Rep: We do training. Part of the deal.
+
+Customer: How long does it typically take for teams to become proficient?
+
+Sales Rep: Depends on your team. Some are quick learners, some aren't.
+
+Customer: Do you have any case studies or examples of similar companies you've helped?
+
+Sales Rep: I could dig some up if I need to.
+
+Customer: That would be helpful. What would be the next steps if we wanted to move forward?
+
+Sales Rep: We'd need to do paperwork and get contracts signed. Normal business stuff.
+
+Customer: I think I'd like to see a demo first to better understand the platform.
+
+Sales Rep: Fine. I'll send you a link or something.
+
+Customer: When should I expect to hear back?
+
+Sales Rep: When I get around to it. Probably this week.

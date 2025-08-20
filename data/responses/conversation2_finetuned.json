@@ -1,0 +1,45 @@
+{
+    "outcome_prediction": {
+        "will_convert": false,
+        "confidence": 0.1,
+        "probability_score": 20
+    },
+    "metrics": {
+        "customer_engagement": 0.3,
+        "sales_effectiveness": 0.4,
+        "conversation_length": 8,
+        "conversation_style": "casual",
+        "objections_raised": true,
+        "price_discussed": true,
+        "next_steps_defined": false
+    },
+    "analysis": {
+        "key_themes": [
+            "customer service",
+            "AI support",
+            "response times"
+        ],
+        "customer_pain_points": [
+            "high ticket volume",
+            "limited agents",
+            "long response times"
+        ],
+        "sales_strengths": [
+            "initial mention of product features",
+            "basic pricing discussion"
+        ],
+        "areas_for_improvement": [
+            "more detailed information on AI feature benefits",
+            "clarification on implementation process",
+            "training details and cost savings",
+            "familiarity with customer's budget constraints"
+        ],
+        "recommended_next_steps": [
+            "Provide more specific data about the AI feature",
+            "Clarify the implementation timeline and steps",
+            "Offer a free trial or demo to show value proposition",
+            "Discuss potential discounts for larger purchases"
+        ]
+    },
+    "summary": "The sales conversation was brief with limited engagement. The customer expressed interest but raised objections regarding cost, which could be a significant barrier. The rep struggled to provide detailed information and specific pricing options."
+}

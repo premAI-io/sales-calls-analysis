@@ -17,13 +17,13 @@ async function handleModels(req, res) {
         }
 
   
-        const models = response.data
+        const models = response.data /*
             .filter(model => model.owned_by !== 'premai')
             .map(model => ({
                 id: model.id,
                 name: model.name || model.id,
                 owned_by: model.owned_by
-            }));
+            }));*/
 
         console.log(`✅ Found ${models.length} available models`);
         
