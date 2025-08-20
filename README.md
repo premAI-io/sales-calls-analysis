@@ -28,9 +28,6 @@ npm start
 - Frontend: http://localhost:3066
 - API: http://localhost:3033
 
-## Clean Ports
-
-```bash
 
 ## Fine-Tuning Results
 
